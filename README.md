@@ -1,0 +1,1 @@
+A Scalatra hello world project that runs on Heroku
