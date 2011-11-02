@@ -1,6 +1,11 @@
-*.DS_Store
 target
 project/boot
 project/target
 project/project/target
 project/plugins/target
+*.DS_Store
+*.iml
+.idea
+.idea_modules
+.project
+.classpath
